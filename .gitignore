@@ -1,0 +1,5 @@
+# Dependancy library  #
+##########################
+/boost/*
+/Eigen/*
+/rapidxml-1.13/*
