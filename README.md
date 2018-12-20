@@ -1,4 +1,4 @@
-## [intro]
+## intro
 
 It is a simple Multiple Object tracker(MOT) by Detection results. 
 
@@ -12,14 +12,14 @@ Tracker is based on Kalman Filter and Data Association. For Data association, Hu
 
 you can see results in "https://youtu.be/H0lKRKsV5dc"
 
-## [Dependency]
+## Dependency
 OpenCV is required.
 Tracker don't need any libraries, but to use Detector you should get below libraries.
 1. Eigen ( you can get in, http://eigen.tuxfamily.org/index.php?title=Main_Page)
 2. Boost ( you can get in, https://www.boost.org/users/download/#live)
 3. RapidXml ( you can get in, https://sourceforge.net/projects/rapidxml/)
 
-## [Usage]
+## Usage
 Confirm parameters of MOT. There are two parameters to control occlusion, detection miss, or tracking miss in config.h
 ```
 const int   MAX_MISS_FRAME = 2;
