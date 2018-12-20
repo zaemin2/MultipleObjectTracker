@@ -2,10 +2,12 @@
 
 It is a simple Multiple Object tracker(MOT) by Detection results. 
 
-*Detection*
+__Detection__
+
 There are a few detection algorithm such as ACF, DPM, HOG, ICF, etc. All of them is a part of : https://bitbucket.org/fdesmedt/openframework/overview
 
-*Multiple Tracker*
+__Multiple Tracker__
+
 Tracker is based on Kalman Filter and Data Association. For Data association, Hungarian Algorithm is used. 
 
 you can see results in "https://youtu.be/H0lKRKsV5dc"
