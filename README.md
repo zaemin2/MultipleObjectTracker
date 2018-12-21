@@ -4,7 +4,7 @@ It is a simple Multiple Object tracker(MOT) by Detection results.
 
 __Detection__
 
-There are a few detection algorithm such as ACF, DPM, HOG, ICF, etc. All of them is a part of : https://bitbucket.org/fdesmedt/openframework/overview
+There are a few detection algorithm such as ACF, DPM, HOG, ICF, etc. All of them are a part of : https://bitbucket.org/fdesmedt/openframework/overview
 
 __Multiple Tracker__
 
