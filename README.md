@@ -1,4 +1,4 @@
-## intro
+## Intro
 
 It is a simple Multiple Object tracker(MOT) by Detection results. 
 
@@ -25,7 +25,7 @@ Confirm parameters of MOT. There are two parameters to control occlusion, detect
 const int   MAX_MISS_FRAME = 2;
 const float MAX_DISTANCE = 100.0;
 ```
-If you want to change Detector to otheres, change below paramaters
+If you want to change Detector to otheres, change below paramater
 ```
 // ACF 0
 // DPM 1
